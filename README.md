@@ -1,13 +1,15 @@
 # code by the bay
 
+## Table of contents
 
-## Segments
-
-### Data Type with Javascript
-
-
-
-
+- Javascript
+  - Scope
+  - Cache
+  - Memoization
+  - Data types
+  - Debugging
+    - Client Side
+    - Server Side
 
 
 ## Sources:
