@@ -8,11 +8,21 @@
   - Cache
   - Memoization
   - Data types & Data structures
-    - Data types
+    - Javascript Data types
       - Primitive
+        - undefined
         - Boolean
-        - String
         - Number
+        - String
+        - BigInt
+        - Symbol
+      - Structural
+        - Object
+          - 
+        - Function
+      - Structural root primitive
+        - null
+    - Data types
       - Composite
         - Array
       - Abstract
@@ -42,3 +52,5 @@
 ## Sources:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+https://www.integralist.co.uk/posts/data-types-and-data-structures/#data-types
+https://en.wikipedia.org/wiki/List_of_data_structures#Hash-based_structures
