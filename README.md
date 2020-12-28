@@ -17,8 +17,7 @@
         - BigInt
         - Symbol
       - Structural
-        - Object
-          - 
+        - Object         
         - Function
       - Structural root primitive
         - null
